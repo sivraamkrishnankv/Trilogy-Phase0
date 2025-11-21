@@ -1,0 +1,6 @@
+[submodule "RAG"]
+	path = RAG
+	url = https://github.com/sivraamkrishnankv/Learning-RAG.git
+[submodule "MCP-Fundamentals"]
+	path = MCP-Fundamentals
+	url = https://github.com/sivraamkrishnankv/learning-MCP.git
