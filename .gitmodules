@@ -7,3 +7,6 @@
 [submodule "automatic-blog-publisher-mcp"]
 	path = automatic-blog-publisher-mcp
 	url = https://github.com/sivraamkrishnankv/automatic-blog-publisher-mcp.git
+[submodule "weather-retriever-mcp"]
+	path = weather-retriever-mcp
+	url = https://github.com/sivraamkrishnankv/weather-retriever-mcp.git
