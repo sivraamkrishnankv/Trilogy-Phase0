@@ -4,3 +4,6 @@
 [submodule "MCP-Fundamentals"]
 	path = MCP-Fundamentals
 	url = https://github.com/sivraamkrishnankv/learning-MCP.git
+[submodule "automatic-blog-publisher-mcp"]
+	path = automatic-blog-publisher-mcp
+	url = https://github.com/sivraamkrishnankv/automatic-blog-publisher-mcp.git
