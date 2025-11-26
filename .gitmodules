@@ -10,3 +10,6 @@
 [submodule "weather-retriever-mcp"]
 	path = weather-retriever-mcp
 	url = https://github.com/sivraamkrishnankv/weather-retriever-mcp.git
+[submodule "multiserver-mcp"]
+	path = multiserver-mcp
+	url = https://github.com/sivraamkrishnankv/multimodel-mcp.git
