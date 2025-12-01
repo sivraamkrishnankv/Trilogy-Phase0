@@ -13,3 +13,6 @@
 [submodule "multiserver-mcp"]
 	path = multiserver-mcp
 	url = https://github.com/sivraamkrishnankv/multimodel-mcp.git
+[submodule "PromptEngineering"]
+	path = PromptEngineering
+	url = https://github.com/sivraamkrishnankv/PromptEngineering.git
